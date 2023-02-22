@@ -12,9 +12,8 @@ Console.WriteLine("2 - Leia um valor inteiro N. Este valor será a quantidade de
 Console.WriteLine("3 - Selecione para ler o enunciado.\n");
 Console.WriteLine("4 - Fazer um programa para ler um número N. Depois leia N pares de números e mostre a divisão do primeiro pelo segundo. Se o denominador for igual a zero, mostrar a mensagem: DIVISÃO IMPOSSÍVEL.\n");
 Console.WriteLine("5 - Ler um valor N. Calcular e escrever seu respectivo fatorial. Fatorial de N = N * (N-1) * (N-2) * (N-3) * ... * 1.Lembrando que, por definição, fatorial de 0 é 1\n");
-Console.WriteLine("6 - Ler um valor e verificar em qual intervalo ele se encontra, (0 a 25, 25 a 50, 50 a 75, 75 a 100).\n");
-Console.WriteLine("7 - Leia 2 valores com uma casa decimal (x e y), que devem representar as coordenadas de um ponto. Determine qual o quadrante ao qual pertence, ou se está sobre um dos eixos cartesianos ou na origem (x = y = 0).\n");
-Console.WriteLine("8 - Para abrir o exercício 8");
+Console.WriteLine("6 - Ler um número inteiro N e calcular todos os seus divisores.\n");
+Console.WriteLine("7 - Ler um número inteiro positivo N. O programa deve então mostrar na tela N linhas, começando de 1 até N. Para cada linha, mostrar o número da linha, depois o quadrado e o cubo do valor.\n");
 Console.WriteLine("Qualquer tecla para sair");
 
 exercicio = Console.ReadLine();
@@ -45,20 +44,15 @@ switch (exercicio)
     exe5.Exercicio();
     break;
 
-  // case "6":
-  //   Exercicio6 exe6 = new Exercicio6();
-  //   exe6.exercicio();
-  //   break;
+  case "6":
+    Exercicio6 exe6 = new Exercicio6();
+    exe6.Exercicio();
+    break;
 
-  // case "7":
-  //   Exercicio7 exe7 = new Exercicio7();
-  //   exe7.exercicio();
-  //   break;
-
-  // case "8":
-  //   Exercicio8 exe8 = new Exercicio8();
-  //   exe8.exercicio();
-  //   break;
+  case "7":
+    Exercicio7 exe7 = new Exercicio7();
+    exe7.Exercicio();
+    break;
 
   default:
     Console.WriteLine("Fim do programa");

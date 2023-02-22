@@ -9,14 +9,14 @@ namespace EstruturaFor.Models
   public class Exercicio5
   {
     int n, fatorial = 1;
-    const int Fatorial0 = 1;
+    const int Fatorial_0 = 1;
     public void Exercicio()
     {
       Console.WriteLine("Digite um valor para N que em seguida vamos calcular o seu fatorial");
       n = int.Parse(Console.ReadLine());
       if (n == 0)
       {
-        fatorial = Fatorial0;
+        fatorial = Fatorial_0;
       }
       else
       {
