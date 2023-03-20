@@ -28,7 +28,7 @@ namespace ExercicioListas
               ", "
               + Name +
               ", "
-              + Salary +
+              + Salary.ToString("F2", CultureInfo.InvariantCulture) +
               ".";
     }
   }
