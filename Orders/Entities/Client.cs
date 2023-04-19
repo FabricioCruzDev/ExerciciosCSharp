@@ -22,5 +22,14 @@ namespace Orders.Entities
       Email = email;
       BirthDate = birthDate;
     }
+
+    public override string ToString()
+    {
+      return Name +
+            " (" +
+            BirthDate +
+            ") - " +
+            Email;
+    }
   }
 }
