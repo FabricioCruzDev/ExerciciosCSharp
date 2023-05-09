@@ -11,7 +11,8 @@ Console.Write("Birth date (DD/MM/YYYY): ");
 DateOnly birthDate = DateOnly.Parse(Console.ReadLine());
 Console.WriteLine("Enter order data: ");
 Console.Write("Status: ");
-OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine()); Console.WriteLine("Enter cliente data:");
+OrderStatus status = Enum.Parse<OrderStatus>(Console.ReadLine()); 
+Console.WriteLine("Enter cliente data:");
 
 Client client = new Client(clientName, email, birthDate);
 Order order = new Order(DateTime.Now, status, client);
