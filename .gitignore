@@ -1,480 +1,400 @@
-Calculadora de Pintura/Calculadora de Pintura.sln
-Calculadora de Pintura/.vs/Calculadora de Pintura/DesignTimeBuild/.dtbcache.v2
-Calculadora de Pintura/.vs/Calculadora de Pintura/v16/.suo
-Calculadora de Pintura/Calculadora de Pintura/Calculadora de Pintura.csproj
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.deps.json
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.dll
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.exe
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.pdb
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.runtimeconfig.dev.json
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/Calculadora de Pintura.runtimeconfig.json
-Calculadora de Pintura/Calculadora de Pintura/bin/Debug/net5.0/ref/Calculadora de Pintura.dll
-Calculadora de Pintura/Calculadora de Pintura/obj/Calculadora de Pintura.csproj.nuget.dgspec.json
-Calculadora de Pintura/Calculadora de Pintura/obj/Calculadora de Pintura.csproj.nuget.g.props
-Calculadora de Pintura/Calculadora de Pintura/obj/Calculadora de Pintura.csproj.nuget.g.targets
-Calculadora de Pintura/Calculadora de Pintura/obj/project.assets.json
-Calculadora de Pintura/Calculadora de Pintura/obj/project.nuget.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/apphost.exe
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.AssemblyInfoInputs.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.assets.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.csproj.AssemblyReference.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.csproj.CoreCompileInputs.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.csproj.FileListAbsolute.txt
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.dll
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.GeneratedMSBuildEditorConfig.editorconfig
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.genruntimeconfig.cache
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/Calculadora de Pintura.pdb
-Calculadora de Pintura/Calculadora de Pintura/obj/Debug/net5.0/ref/Calculadora de Pintura.dll
-CalculadoraSignos/CalculadoraSignos.csproj
-CalculadoraSignos/CalculadoraSignos.sln
-CalculadoraSignos/.vs/slnx.sqlite
-CalculadoraSignos/.vs/VSWorkspaceState.json
-CalculadoraSignos/.vs/CalculadoraSignos/DesignTimeBuild/.dtbcache.v2
-CalculadoraSignos/.vs/CalculadoraSignos/v16/.suo
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.deps.json
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.dll
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.exe
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.pdb
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.runtimeconfig.dev.json
-CalculadoraSignos/bin/Debug/net5.0/CalculadoraSignos.runtimeconfig.json
-CalculadoraSignos/bin/Debug/net5.0/ref/CalculadoraSignos.dll
-CalculadoraSignos/obj/CalculadoraSignos.csproj.nuget.dgspec.json
-CalculadoraSignos/obj/CalculadoraSignos.csproj.nuget.g.props
-CalculadoraSignos/obj/CalculadoraSignos.csproj.nuget.g.targets
-CalculadoraSignos/obj/project.assets.json
-CalculadoraSignos/obj/project.nuget.cache
-CalculadoraSignos/obj/Debug/net5.0/apphost.exe
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.AssemblyInfoInputs.cache
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.assets.cache
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.csproj.AssemblyReference.cache
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.csproj.CoreCompileInputs.cache
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.csproj.FileListAbsolute.txt
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.dll
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.GeneratedMSBuildEditorConfig.editorconfig
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.genruntimeconfig.cache
-CalculadoraSignos/obj/Debug/net5.0/CalculadoraSignos.pdb
-CalculadoraSignos/obj/Debug/net5.0/ref/CalculadoraSignos.dll
-CalculadoraSignos/obj/Release/net5.0/CalculadoraSignos.AssemblyInfoInputs.cache
-CalculadoraSignos/obj/Release/net5.0/CalculadoraSignos.assets.cache
-CalculadoraSignos/obj/Release/net5.0/CalculadoraSignos.GeneratedMSBuildEditorConfig.editorconfig
-ConversorTemperaturas/ConversorTemperaturas.sln
-ConversorTemperaturas/.vs/ProjectSettings.json
-ConversorTemperaturas/.vs/slnx.sqlite
-ConversorTemperaturas/.vs/VSWorkspaceState.json
-ConversorTemperaturas/.vs/ConversorTemperaturas/DesignTimeBuild/.dtbcache.v2
-ConversorTemperaturas/.vs/ConversorTemperaturas/v16/.suo
-EstruturaSequencial/EstruturaSequencial.csproj
-EstruturaSequencial/.vscode/launch.json
-EstruturaSequencial/.vscode/tasks.json
-EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.deps.json
-EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.dll
-EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.exe
-EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.pdb
-EstruturaSequencial/bin/Debug/net6.0/EstruturaSequencial.runtimeconfig.json
-EstruturaSequencial/obj/EstruturaSequencial.csproj.nuget.dgspec.json
-EstruturaSequencial/obj/EstruturaSequencial.csproj.nuget.g.props
-EstruturaSequencial/obj/EstruturaSequencial.csproj.nuget.g.targets
-EstruturaSequencial/obj/project.assets.json
-EstruturaSequencial/obj/project.nuget.cache
-EstruturaSequencial/obj/Debug/net6.0/apphost.exe
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.AssemblyInfoInputs.cache
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.assets.cache
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.csproj.AssemblyReference.cache
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.csproj.CoreCompileInputs.cache
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.csproj.FileListAbsolute.txt
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.dll
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.GeneratedMSBuildEditorConfig.editorconfig
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.genruntimeconfig.cache
-EstruturaSequencial/obj/Debug/net6.0/EstruturaSequencial.pdb
-EstruturaSequencial/obj/Debug/net6.0/ref/EstruturaSequencial.dll
-EstruturaSequencial/obj/Debug/net6.0/refint/EstruturaSequencial.dll
-Prova/Exercicio22/Exercicio22.csproj
-Prova/Exercicio22/.vscode/launch.json
-Prova/Exercicio22/.vscode/tasks.json
-Prova/Exercicio22/bin/Debug/net6.0/Exercicio22.deps.json
-Prova/Exercicio22/bin/Debug/net6.0/Exercicio22.dll
-Prova/Exercicio22/bin/Debug/net6.0/Exercicio22.exe
-Prova/Exercicio22/bin/Debug/net6.0/Exercicio22.pdb
-Prova/Exercicio22/bin/Debug/net6.0/Exercicio22.runtimeconfig.json
-Prova/Exercicio22/obj/Exercicio22.csproj.nuget.dgspec.json
-Prova/Exercicio22/obj/Exercicio22.csproj.nuget.g.props
-Prova/Exercicio22/obj/Exercicio22.csproj.nuget.g.targets
-Prova/Exercicio22/obj/project.assets.json
-Prova/Exercicio22/obj/project.nuget.cache
-Prova/Exercicio22/obj/Debug/net6.0/apphost.exe
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.AssemblyInfoInputs.cache
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.assets.cache
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.csproj.AssemblyReference.cache
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.csproj.CoreCompileInputs.cache
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.csproj.FileListAbsolute.txt
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.dll
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.GeneratedMSBuildEditorConfig.editorconfig
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.genruntimeconfig.cache
-Prova/Exercicio22/obj/Debug/net6.0/Exercicio22.pdb
-Prova/Exercicio22/obj/Debug/net6.0/ref/Exercicio22.dll
-Prova/Exercicio22/obj/Debug/net6.0/refint/Exercicio22.dll
-Prova/Exercicio3/Exercicio3.csproj
-Prova/Exercicio3/.vscode/launch.json
-Prova/Exercicio3/.vscode/tasks.json
-Prova/Exercicio3/bin/Debug/net6.0/Exercicio3.deps.json
-Prova/Exercicio3/bin/Debug/net6.0/Exercicio3.dll
-Prova/Exercicio3/bin/Debug/net6.0/Exercicio3.exe
-Prova/Exercicio3/bin/Debug/net6.0/Exercicio3.pdb
-Prova/Exercicio3/bin/Debug/net6.0/Exercicio3.runtimeconfig.json
-Prova/Exercicio3/obj/Exercicio3.csproj.nuget.dgspec.json
-Prova/Exercicio3/obj/Exercicio3.csproj.nuget.g.props
-Prova/Exercicio3/obj/Exercicio3.csproj.nuget.g.targets
-Prova/Exercicio3/obj/project.assets.json
-Prova/Exercicio3/obj/project.nuget.cache
-Prova/Exercicio3/obj/Debug/net6.0/apphost.exe
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.AssemblyInfoInputs.cache
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.assets.cache
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.csproj.AssemblyReference.cache
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.csproj.CoreCompileInputs.cache
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.csproj.FileListAbsolute.txt
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.dll
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.genruntimeconfig.cache
-Prova/Exercicio3/obj/Debug/net6.0/Exercicio3.pdb
-Prova/Exercicio3/obj/Debug/net6.0/ref/Exercicio3.dll
-Prova/Exercicio3/obj/Debug/net6.0/refint/Exercicio3.dll
-Prova/Questao1.1/Questao1.1.csproj
-Prova/Questao1.1/bin/Debug/net6.0/Questao1.1.deps.json
-Prova/Questao1.1/bin/Debug/net6.0/Questao1.1.dll
-Prova/Questao1.1/bin/Debug/net6.0/Questao1.1.exe
-Prova/Questao1.1/bin/Debug/net6.0/Questao1.1.pdb
-Prova/Questao1.1/bin/Debug/net6.0/Questao1.1.runtimeconfig.json
-Prova/Questao1.1/obj/project.assets.json
-Prova/Questao1.1/obj/project.nuget.cache
-Prova/Questao1.1/obj/Questao1.1.csproj.nuget.dgspec.json
-Prova/Questao1.1/obj/Questao1.1.csproj.nuget.g.props
-Prova/Questao1.1/obj/Questao1.1.csproj.nuget.g.targets
-Prova/Questao1.1/obj/Debug/net6.0/apphost.exe
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.AssemblyInfoInputs.cache
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.assets.cache
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.csproj.AssemblyReference.cache
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.csproj.CoreCompileInputs.cache
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.csproj.FileListAbsolute.txt
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.dll
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.GeneratedMSBuildEditorConfig.editorconfig
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.genruntimeconfig.cache
-Prova/Questao1.1/obj/Debug/net6.0/Questao1.1.pdb
-Prova/Questao1.1/obj/Debug/net6.0/ref/Questao1.1.dll
-Prova/Questao1.1/obj/Debug/net6.0/refint/Questao1.1.dll
-EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.deps.json
-EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.dll
-EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.exe
-EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.pdb
-EstruturaCondicional/bin/Debug/net6.0/EstruturaCondicional.runtimeconfig.json
-EstruturaCondicional/obj/EstruturaCondicional.csproj.nuget.dgspec.json
-EstruturaCondicional/obj/EstruturaCondicional.csproj.nuget.g.props
-EstruturaCondicional/obj/EstruturaCondicional.csproj.nuget.g.targets
-EstruturaCondicional/obj/project.assets.json
-EstruturaCondicional/obj/project.nuget.cache
-EstruturaCondicional/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-EstruturaCondicional/obj/Debug/net6.0/apphost.exe
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.AssemblyInfo.cs
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.AssemblyInfoInputs.cache
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.assets.cache
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.csproj.AssemblyReference.cache
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.csproj.CoreCompileInputs.cache
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.csproj.FileListAbsolute.txt
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.dll
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.GeneratedMSBuildEditorConfig.editorconfig
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.genruntimeconfig.cache
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.GlobalUsings.g.cs
-EstruturaCondicional/obj/Debug/net6.0/EstruturaCondicional.pdb
-EstruturaCondicional/obj/Debug/net6.0/ref/EstruturaCondicional.dll
-EstruturaCondicional/obj/Debug/net6.0/refint/EstruturaCondicional.dll
-EstruturaWhile/bin/Debug/net6.0/EstruturaWhile.deps.json
-EstruturaWhile/bin/Debug/net6.0/EstruturaWhile.dll
-EstruturaWhile/bin/Debug/net6.0/EstruturaWhile.exe
-EstruturaWhile/bin/Debug/net6.0/EstruturaWhile.pdb
-EstruturaWhile/bin/Debug/net6.0/EstruturaWhile.runtimeconfig.json
-EstruturaWhile/obj/EstruturaWhile.csproj.nuget.dgspec.json
-EstruturaWhile/obj/EstruturaWhile.csproj.nuget.g.props
-EstruturaWhile/obj/EstruturaWhile.csproj.nuget.g.targets
-EstruturaWhile/obj/project.assets.json
-EstruturaWhile/obj/project.nuget.cache
-EstruturaWhile/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-EstruturaWhile/obj/Debug/net6.0/apphost.exe
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.AssemblyInfo.cs
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.AssemblyInfoInputs.cache
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.assets.cache
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.csproj.AssemblyReference.cache
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.csproj.CoreCompileInputs.cache
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.csproj.FileListAbsolute.txt
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.dll
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.genruntimeconfig.cache
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.GlobalUsings.g.cs
-EstruturaWhile/obj/Debug/net6.0/EstruturaWhile.pdb
-EstruturaWhile/obj/Debug/net6.0/ref/EstruturaWhile.dll
-EstruturaWhile/obj/Debug/net6.0/refint/EstruturaWhile.dll
-EstruturaFor/EstruturaFor.csproj
-EstruturaFor/exercicios4-estrutura-for.pdf
-EstruturaFor/bin/Debug/net6.0/EstruturaFor.deps.json
-EstruturaFor/bin/Debug/net6.0/EstruturaFor.dll
-EstruturaFor/bin/Debug/net6.0/EstruturaFor.exe
-EstruturaFor/bin/Debug/net6.0/EstruturaFor.pdb
-EstruturaFor/bin/Debug/net6.0/EstruturaFor.runtimeconfig.json
-EstruturaFor/obj/EstruturaFor.csproj.nuget.dgspec.json
-EstruturaFor/obj/EstruturaFor.csproj.nuget.g.props
-EstruturaFor/obj/EstruturaFor.csproj.nuget.g.targets
-EstruturaFor/obj/project.assets.json
-EstruturaFor/obj/project.nuget.cache
-EstruturaFor/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-EstruturaFor/obj/Debug/net6.0/apphost.exe
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.AssemblyInfo.cs
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.AssemblyInfoInputs.cache
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.assets.cache
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.csproj.AssemblyReference.cache
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.csproj.CoreCompileInputs.cache
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.csproj.FileListAbsolute.txt
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.dll
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.GeneratedMSBuildEditorConfig.editorconfig
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.genruntimeconfig.cache
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.GlobalUsings.g.cs
-EstruturaFor/obj/Debug/net6.0/EstruturaFor.pdb
-EstruturaFor/obj/Debug/net6.0/ref/EstruturaFor.dll
-EstruturaFor/obj/Debug/net6.0/refint/EstruturaFor.dll
-OrientacaoObjetos/.vscode/launch.json
-OrientacaoObjetos/.vscode/tasks.json
-OrientacaoObjetos/ExercicioFixacao1/ExercicioFixacao1.csproj
-OrientacaoObjetos/ExercicioFixacao1/bin/Debug/net6.0/ExercicioFixacao1.deps.json
-OrientacaoObjetos/ExercicioFixacao1/bin/Debug/net6.0/ExercicioFixacao1.dll
-OrientacaoObjetos/ExercicioFixacao1/bin/Debug/net6.0/ExercicioFixacao1.exe
-OrientacaoObjetos/ExercicioFixacao1/bin/Debug/net6.0/ExercicioFixacao1.pdb
-OrientacaoObjetos/ExercicioFixacao1/bin/Debug/net6.0/ExercicioFixacao1.runtimeconfig.json
-OrientacaoObjetos/ExercicioFixacao1/obj/ExercicioFixacao1.csproj.nuget.dgspec.json
-OrientacaoObjetos/ExercicioFixacao1/obj/ExercicioFixacao1.csproj.nuget.g.props
-OrientacaoObjetos/ExercicioFixacao1/obj/ExercicioFixacao1.csproj.nuget.g.targets
-OrientacaoObjetos/ExercicioFixacao1/obj/project.assets.json
-OrientacaoObjetos/ExercicioFixacao1/obj/project.nuget.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/apphost.exe
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.AssemblyInfo.cs
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.AssemblyInfoInputs.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.assets.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.csproj.AssemblyReference.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.csproj.CoreCompileInputs.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.csproj.FileListAbsolute.txt
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.dll
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.GeneratedMSBuildEditorConfig.editorconfig
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.genruntimeconfig.cache
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.GlobalUsings.g.cs
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ExercicioFixacao1.pdb
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/ref/ExercicioFixacao1.dll
-OrientacaoObjetos/ExercicioFixacao1/obj/Debug/net6.0/refint/ExercicioFixacao1.dll
-OrientacaoObjetos/ExercicioFixacao2/ExercicioFixacao2.csproj
-OrientacaoObjetos/ExercicioFixacao2/bin/Debug/net6.0/ExercicioFixacao2.deps.json
-OrientacaoObjetos/ExercicioFixacao2/bin/Debug/net6.0/ExercicioFixacao2.dll
-OrientacaoObjetos/ExercicioFixacao2/bin/Debug/net6.0/ExercicioFixacao2.exe
-OrientacaoObjetos/ExercicioFixacao2/bin/Debug/net6.0/ExercicioFixacao2.pdb
-OrientacaoObjetos/ExercicioFixacao2/bin/Debug/net6.0/ExercicioFixacao2.runtimeconfig.json
-OrientacaoObjetos/ExercicioFixacao2/obj/ExercicioFixacao2.csproj.nuget.dgspec.json
-OrientacaoObjetos/ExercicioFixacao2/obj/ExercicioFixacao2.csproj.nuget.g.props
-OrientacaoObjetos/ExercicioFixacao2/obj/ExercicioFixacao2.csproj.nuget.g.targets
-OrientacaoObjetos/ExercicioFixacao2/obj/project.assets.json
-OrientacaoObjetos/ExercicioFixacao2/obj/project.nuget.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/apphost.exe
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.AssemblyInfo.cs
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.AssemblyInfoInputs.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.assets.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.csproj.AssemblyReference.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.csproj.CoreCompileInputs.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.csproj.FileListAbsolute.txt
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.dll
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.GeneratedMSBuildEditorConfig.editorconfig
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.genruntimeconfig.cache
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.GlobalUsings.g.cs
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ExercicioFixacao2.pdb
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/ref/ExercicioFixacao2.dll
-OrientacaoObjetos/ExercicioFixacao2/obj/Debug/net6.0/refint/ExercicioFixacao2.dll
-OrientacaoObjetos/ExercicioFixacao3/ExercicioFixacao3.csproj
-OrientacaoObjetos/ExercicioFixacao3/bin/Debug/net6.0/ExercicioFixacao3.deps.json
-OrientacaoObjetos/ExercicioFixacao3/bin/Debug/net6.0/ExercicioFixacao3.dll
-OrientacaoObjetos/ExercicioFixacao3/bin/Debug/net6.0/ExercicioFixacao3.exe
-OrientacaoObjetos/ExercicioFixacao3/bin/Debug/net6.0/ExercicioFixacao3.pdb
-OrientacaoObjetos/ExercicioFixacao3/bin/Debug/net6.0/ExercicioFixacao3.runtimeconfig.json
-OrientacaoObjetos/ExercicioFixacao3/obj/ExercicioFixacao3.csproj.nuget.dgspec.json
-OrientacaoObjetos/ExercicioFixacao3/obj/ExercicioFixacao3.csproj.nuget.g.props
-OrientacaoObjetos/ExercicioFixacao3/obj/ExercicioFixacao3.csproj.nuget.g.targets
-OrientacaoObjetos/ExercicioFixacao3/obj/project.assets.json
-OrientacaoObjetos/ExercicioFixacao3/obj/project.nuget.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/apphost.exe
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.AssemblyInfo.cs
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.AssemblyInfoInputs.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.assets.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.csproj.AssemblyReference.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.csproj.CoreCompileInputs.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.csproj.FileListAbsolute.txt
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.dll
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.GeneratedMSBuildEditorConfig.editorconfig
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.genruntimeconfig.cache
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.GlobalUsings.g.cs
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ExercicioFixacao3.pdb
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/ref/ExercicioFixacao3.dll
-OrientacaoObjetos/ExercicioFixacao3/obj/Debug/net6.0/refint/ExercicioFixacao3.dll
-OrientacaoObjetos/Exercicios/Exercicios.csproj
-OrientacaoObjetos/Exercicios/.vs/Exercicios/v16/.suo
-OrientacaoObjetos/Exercicios/bin/Debug/net6.0/Exercicios.deps.json
-OrientacaoObjetos/Exercicios/bin/Debug/net6.0/Exercicios.dll
-OrientacaoObjetos/Exercicios/bin/Debug/net6.0/Exercicios.exe
-OrientacaoObjetos/Exercicios/bin/Debug/net6.0/Exercicios.pdb
-OrientacaoObjetos/Exercicios/bin/Debug/net6.0/Exercicios.runtimeconfig.json
-OrientacaoObjetos/Exercicios/obj/Exercicios.csproj.nuget.dgspec.json
-OrientacaoObjetos/Exercicios/obj/Exercicios.csproj.nuget.g.props
-OrientacaoObjetos/Exercicios/obj/Exercicios.csproj.nuget.g.targets
-OrientacaoObjetos/Exercicios/obj/project.assets.json
-OrientacaoObjetos/Exercicios/obj/project.nuget.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/apphost.exe
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.AssemblyInfo.cs
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.AssemblyInfoInputs.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.assets.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.csproj.AssemblyReference.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.csproj.CoreCompileInputs.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.csproj.FileListAbsolute.txt
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.dll
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.GeneratedMSBuildEditorConfig.editorconfig
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.genruntimeconfig.cache
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.GlobalUsings.g.cs
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/Exercicios.pdb
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/ref/Exercicios.dll
-OrientacaoObjetos/Exercicios/obj/Debug/net6.0/refint/Exercicios.dll
-.vscode/launch.json
-ExercicioListas/ExercicioListas.csproj
-ExercicioListas/.vscode/launch.json
-ExercicioListas/.vscode/settings.json
-ExercicioListas/.vscode/tasks.json
-ExercicioListas/bin/Debug/net6.0/ExercicioListas.deps.json
-ExercicioListas/bin/Debug/net6.0/ExercicioListas.dll
-ExercicioListas/bin/Debug/net6.0/ExercicioListas.exe
-ExercicioListas/bin/Debug/net6.0/ExercicioListas.pdb
-ExercicioListas/bin/Debug/net6.0/ExercicioListas.runtimeconfig.json
-ExercicioListas/obj/ExercicioListas.csproj.nuget.dgspec.json
-ExercicioListas/obj/ExercicioListas.csproj.nuget.g.props
-ExercicioListas/obj/ExercicioListas.csproj.nuget.g.targets
-ExercicioListas/obj/project.assets.json
-ExercicioListas/obj/project.nuget.cache
-ExercicioListas/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-ExercicioListas/obj/Debug/net6.0/apphost.exe
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.AssemblyInfo.cs
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.AssemblyInfoInputs.cache
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.assets.cache
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.csproj.AssemblyReference.cache
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.csproj.CoreCompileInputs.cache
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.csproj.FileListAbsolute.txt
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.dll
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.genruntimeconfig.cache
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.GlobalUsings.g.cs
-ExercicioListas/obj/Debug/net6.0/ExercicioListas.pdb
-ExercicioListas/obj/Debug/net6.0/ref/ExercicioListas.dll
-ExercicioListas/obj/Debug/net6.0/refint/ExercicioListas.dll
-ExercicioMatrizes/ExercicioMatrizes.csproj
-ExercicioMatrizes/.vscode/launch.json
-ExercicioMatrizes/.vscode/tasks.json
-ExercicioMatrizes/bin/Debug/net6.0/ExercicioMatrizes.deps.json
-ExercicioMatrizes/bin/Debug/net6.0/ExercicioMatrizes.dll
-ExercicioMatrizes/bin/Debug/net6.0/ExercicioMatrizes.exe
-ExercicioMatrizes/bin/Debug/net6.0/ExercicioMatrizes.pdb
-ExercicioMatrizes/bin/Debug/net6.0/ExercicioMatrizes.runtimeconfig.json
-ExercicioMatrizes/obj/ExercicioMatrizes.csproj.nuget.dgspec.json
-ExercicioMatrizes/obj/ExercicioMatrizes.csproj.nuget.g.props
-ExercicioMatrizes/obj/ExercicioMatrizes.csproj.nuget.g.targets
-ExercicioMatrizes/obj/project.assets.json
-ExercicioMatrizes/obj/project.nuget.cache
-ExercicioMatrizes/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-ExercicioMatrizes/obj/Debug/net6.0/apphost.exe
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.AssemblyInfo.cs
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.AssemblyInfoInputs.cache
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.assets.cache
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.csproj.AssemblyReference.cache
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.csproj.CoreCompileInputs.cache
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.csproj.FileListAbsolute.txt
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.dll
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.genruntimeconfig.cache
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.GlobalUsings.g.cs
-ExercicioMatrizes/obj/Debug/net6.0/ExercicioMatrizes.pdb
-ExercicioMatrizes/obj/Debug/net6.0/ref/ExercicioMatrizes.dll
-ExercicioMatrizes/obj/Debug/net6.0/refint/ExercicioMatrizes.dll
-MemoriaArraysListas/ExercicioArray/ExercicioArray.csproj
-MemoriaArraysListas/ExercicioArray/bin/Debug/net6.0/ExercicioArray.deps.json
-MemoriaArraysListas/ExercicioArray/bin/Debug/net6.0/ExercicioArray.dll
-MemoriaArraysListas/ExercicioArray/bin/Debug/net6.0/ExercicioArray.exe
-MemoriaArraysListas/ExercicioArray/bin/Debug/net6.0/ExercicioArray.pdb
-MemoriaArraysListas/ExercicioArray/bin/Debug/net6.0/ExercicioArray.runtimeconfig.json
-MemoriaArraysListas/ExercicioArray/obj/ExercicioArray.csproj.nuget.dgspec.json
-MemoriaArraysListas/ExercicioArray/obj/ExercicioArray.csproj.nuget.g.props
-MemoriaArraysListas/ExercicioArray/obj/ExercicioArray.csproj.nuget.g.targets
-MemoriaArraysListas/ExercicioArray/obj/project.assets.json
-MemoriaArraysListas/ExercicioArray/obj/project.nuget.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/apphost.exe
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.AssemblyInfo.cs
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.AssemblyInfoInputs.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.assets.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.csproj.AssemblyReference.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.csproj.CoreCompileInputs.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.csproj.FileListAbsolute.txt
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.dll
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.GeneratedMSBuildEditorConfig.editorconfig
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.genruntimeconfig.cache
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.GlobalUsings.g.cs
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ExercicioArray.pdb
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/ref/ExercicioArray.dll
-MemoriaArraysListas/ExercicioArray/obj/Debug/net6.0/refint/ExercicioArray.dll
-Orders/Orders.csproj
-Orders/.vscode/launch.json
-Orders/.vscode/tasks.json
-Orders/obj/Orders.csproj.nuget.dgspec.json
-Orders/obj/Orders.csproj.nuget.g.props
-Orders/obj/Orders.csproj.nuget.g.targets
-Orders/obj/project.assets.json
-Orders/obj/project.nuget.cache
-Orders/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-Orders/obj/Debug/net6.0/Orders.AssemblyInfo.cs
-Orders/obj/Debug/net6.0/Orders.AssemblyInfoInputs.cache
-Orders/obj/Debug/net6.0/Orders.assets.cache
-Orders/obj/Debug/net6.0/Orders.csproj.AssemblyReference.cache
-Orders/obj/Debug/net6.0/Orders.GeneratedMSBuildEditorConfig.editorconfig
-Orders/obj/Debug/net6.0/Orders.GlobalUsings.g.cs
-OrientacaoObjetos/ExercicioFixacao4/ExercicioFixacao4.csproj
-OrientacaoObjetos/ExercicioFixacao4/obj/ExercicioFixacao4.csproj.nuget.dgspec.json
-OrientacaoObjetos/ExercicioFixacao4/obj/ExercicioFixacao4.csproj.nuget.g.props
-OrientacaoObjetos/ExercicioFixacao4/obj/ExercicioFixacao4.csproj.nuget.g.targets
-OrientacaoObjetos/ExercicioFixacao4/obj/project.assets.json
-OrientacaoObjetos/ExercicioFixacao4/obj/project.nuget.cache
-SistemaBancario/SistemaBancario.csproj
-SistemaBancario/.vscode/launch.json
-SistemaBancario/.vscode/tasks.json
-SistemaBancario/bin/Debug/net6.0/SistemaBancario.deps.json
-SistemaBancario/bin/Debug/net6.0/SistemaBancario.dll
-SistemaBancario/bin/Debug/net6.0/SistemaBancario.exe
-SistemaBancario/bin/Debug/net6.0/SistemaBancario.pdb
-SistemaBancario/bin/Debug/net6.0/SistemaBancario.runtimeconfig.json
-SistemaBancario/obj/project.assets.json
-SistemaBancario/obj/project.nuget.cache
-SistemaBancario/obj/SistemaBancario.csproj.nuget.dgspec.json
-SistemaBancario/obj/SistemaBancario.csproj.nuget.g.props
-SistemaBancario/obj/SistemaBancario.csproj.nuget.g.targets
-SistemaBancario/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
-SistemaBancario/obj/Debug/net6.0/apphost.exe
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.AssemblyInfo.cs
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.AssemblyInfoInputs.cache
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.assets.cache
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.csproj.AssemblyReference.cache
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.csproj.CoreCompileInputs.cache
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.csproj.FileListAbsolute.txt
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.dll
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.GeneratedMSBuildEditorConfig.editorconfig
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.genruntimeconfig.cache
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.GlobalUsings.g.cs
-SistemaBancario/obj/Debug/net6.0/SistemaBancario.pdb
-SistemaBancario/obj/Debug/net6.0/ref/SistemaBancario.dll
-SistemaBancario/obj/Debug/net6.0/refint/SistemaBancario.dll
+## Ignore Visual Studio temporary files, build results, and
+## files generated by popular Visual Studio add-ons.
+##
+## Get latest from https://github.com/github/gitignore/blob/main/VisualStudio.gitignore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+
+# Visual Studio 2017 auto generated files
+Generated\ Files/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# Benchmark Results
+BenchmarkDotNet.Artifacts/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*_wpftmp.csproj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.svclog
+*.scc
+*.sln
+
+# Chutzpah Test files
+_Chutzpah*
+
+# Visual C++ cache files
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+*.sap
+
+# Visual Studio Trace Files
+*.e2e
+
+# TFS 2012 Local Workspace
+$tf/
+
+# Guidance Automation Toolkit
+*.gpState
+
+# ReSharper is a .NET coding add-in
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# TeamCity is a build add-in
+_TeamCity*
+
+# DotCover is a Code Coverage Tool
+*.dotCover
+
+# AxoCover is a Code Coverage Tool
+.axoCover/*
+!.axoCover/settings.json
+
+# Coverlet is a free, cross platform Code Coverage Tool
+coverage*.json
+coverage*.xml
+coverage*.info
+
+# Visual Studio code coverage results
+*.coverage
+*.coveragexml
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MightyMoose
+*.mm.*
+AutoTest.Net/
+
+# Web workbench (sass)
+.sass-cache/
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject is a documentation generator add-in
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+
+# Click-Once directory
+publish/
+
+# Publish Web Output
+*.[Pp]ublish.xml
+*.azurePubxml
+# Note: Comment the next line if you want to checkin your web deploy settings,
+# but database connection strings (with potential passwords) will be unencrypted
+*.pubxml
+*.publishproj
+
+# Microsoft Azure Web App publish settings. Comment the next line if you want to
+# checkin your Azure Web App publish settings, but sensitive information contained
+# in these scripts will be unencrypted
+PublishScripts/
+
+# NuGet Packages
+*.nupkg
+# NuGet Symbol Packages
+*.snupkg
+# The packages folder can be ignored because of Package Restore
+**/[Pp]ackages/*
+# except build/, which is used as an MSBuild target.
+!**/[Pp]ackages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/[Pp]ackages/repositories.config
+# NuGet v3's project.json files produces more ignorable files
+*.nuget.props
+*.nuget.targets
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Microsoft Azure Emulator
+ecf/
+rcf/
+
+# Windows Store app package directories and files
+AppPackages/
+BundleArtifacts/
+Package.StoreAssociation.xml
+_pkginfo.txt
+*.appx
+*.appxbundle
+*.appxupload
+
+# Visual Studio cache files
+# files ending in .cache can be ignored
+*.[Cc]ache
+# but keep track of directories ending in .cache
+!?*.[Cc]ache/
+
+# Others
+ClientBin/
+~$*
+*~
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+*.pfx
+*.publishsettings
+*.pdf
+orleans.codegen.cs
+
+# Including strong name files can present a security risk
+# (https://github.com/github/gitignore/pull/2483#issue-259490424)
+#*.snk
+
+# Since there are multiple workflows, uncomment next line to ignore bower_components
+# (https://github.com/github/gitignore/pull/1529#issuecomment-104372622)
+#bower_components/
+
+# RIA/Silverlight projects
+Generated_Code/
+
+# Backup & report files from converting an old project file
+# to a newer Visual Studio version. Backup files are not needed,
+# because we have git ;-)
+_UpgradeReport_Files/
+Backup*/
+UpgradeLog*.XML
+UpgradeLog*.htm
+ServiceFabricBackup/
+*.rptproj.bak
+
+# SQL Server files
+*.mdf
+*.ldf
+*.ndf
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.rsuser
+*- [Bb]ackup.rdl
+*- [Bb]ackup ([0-9]).rdl
+*- [Bb]ackup ([0-9][0-9]).rdl
+
+# Microsoft Fakes
+FakesAssemblies/
+
+# GhostDoc plugin setting file
+*.GhostDoc.xml
+
+# Node.js Tools for Visual Studio
+.ntvs_analysis.dat
+node_modules/
+
+# Visual Studio 6 build log
+*.plg
+
+# Visual Studio 6 workspace options file
+*.opt
+
+# Visual Studio 6 auto-generated workspace file (contains which files were open etc.)
+*.vbw
+
+# Visual Studio 6 auto-generated project file (contains which files were open etc.)
+*.vbp
+
+# Visual Studio 6 workspace and project file (working project files containing files to include in project)
+*.dsw
+*.dsp
+
+# Visual Studio 6 technical files
+*.ncb
+*.aps
+
+# Visual Studio LightSwitch build output
+**/*.HTMLClient/GeneratedArtifacts
+**/*.DesktopClient/GeneratedArtifacts
+**/*.DesktopClient/ModelManifest.xml
+**/*.Server/GeneratedArtifacts
+**/*.Server/ModelManifest.xml
+_Pvt_Extensions
+
+# Paket dependency manager
+.paket/paket.exe
+paket-files/
+
+# FAKE - F# Make
+.fake/
+
+# CodeRush personal settings
+.cr/personal
+
+# Python Tools for Visual Studio (PTVS)
+__pycache__/
+*.pyc
+
+# Cake - Uncomment if you are using it
+# tools/**
+# !tools/packages.config
+
+# Tabs Studio
+*.tss
+
+# Telerik's JustMock configuration file
+*.jmconfig
+
+# BizTalk build output
+*.btp.cs
+*.btm.cs
+*.odx.cs
+*.xsd.cs
+
+# OpenCover UI analysis results
+OpenCover/
+
+# Azure Stream Analytics local run output
+ASALocalRun/
+
+# MSBuild Binary and Structured Log
+*.binlog
+
+# NVidia Nsight GPU debugger configuration file
+*.nvuser
+
+# MFractors (Xamarin productivity tool) working folder
+.mfractor/
+
+# Local History for Visual Studio
+.localhistory/
+
+# Visual Studio History (VSHistory) files
+.vshistory/
+
+# BeatPulse healthcheck temp database
+healthchecksdb
+
+# Backup folder for Package Reference Convert tool in Visual Studio 2017
+MigrationBackup/
+
+# Ionide (cross platform F# VS Code tools) working folder
+.ionide/
+
+# Fody - auto-generated XML schema
+FodyWeavers.xsd
+
+# VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows Installer files from build outputs
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# JetBrains Rider
+*.sln.iml
